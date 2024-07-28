@@ -15,5 +15,5 @@ The Sugoku API is provided by the repository located at GitHub - bertoort/sugoku
 
 ## Images
 
-![alt text.](/images/unsolved.PNG "Unsolved")<br>
-![alt text.](/images/solved.PNG "Solved")
+![alt text.](/Images/unsolved.PNG "Unsolved")<br>
+![alt text.](/Images/solved.PNG "Solved")
